@@ -35,7 +35,7 @@ pylint --rcfile=.pylintrc ModuleTemplate
 
 ## Help
 
-Contact me at [email](malito:songmin.yu@outlook.com)
+Contact me at [email](malito:songmin.yu@outlook.com).
 
 ## Version History
 
