@@ -33,10 +33,6 @@ python setup.py bdist_wheel
 pylint --rcfile=.pylintrc ModuleTemplate
 ```
 
-## Help
-
-Contact me at [email](malito:songmin.yu@outlook.com).
-
 ## Version History
 
 -   0.1
