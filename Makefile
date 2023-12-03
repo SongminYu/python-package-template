@@ -1,8 +1,11 @@
 build-wheel:
 	python setup.py bdist_wheel
 
+format:
+	black .
+
 lint:
-	pylint --rcfile=.pylintrc ModuleTemplate
+	pylint --rcfile=.pylintrc package_name
 
 test:
 	pytest -s
@@ -10,5 +13,3 @@ test:
 test-cov:
 	pytest -s --cov
 
-format:
-	black .

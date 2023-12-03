@@ -1,5 +1,5 @@
 def sum_two_numbers(n1: int, n2: int) -> int:
-    """'
+    """
     Returns the sum of two numbers
 
     Parameters:

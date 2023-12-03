@@ -1,4 +1,4 @@
-from ModuleTemplate.ModuleName import sum_two_numbers
+from package_name.sub_module import sum_two_numbers
 
 
 def test_sum_two_numbers() -> None:

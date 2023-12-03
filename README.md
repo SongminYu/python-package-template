@@ -1,20 +1,21 @@
-# Project Title
+# README
 
 This is a project template for a python package.
 
 ## Description
 
-This is a project template for a python package. Its is meant to be a starting point for your python package project. It provides a project structure that is easy to start with and can grow to support a wide variety of features.
+This is a project template for a python package. Its is meant to be a starting point for your python package project. 
+It provides a project structure that is easy to start with and can grow to support a wide variety of features.
 
 ## Getting Started
 
 ### Dependencies
 
 -   Python 3.8+
--   pipenv
 -   pytest
 -   pytest-cov
 -   pylint
+-   black
 
 ### Installing
 
@@ -34,13 +35,7 @@ pylint --rcfile=.pylintrc ModuleTemplate
 
 ## Help
 
-Contact me at [email](malito:)
-
-As an example, commands to run in order to get support and inform about an issue
-
-## Authors
-
--   [@your name](your github profile)
+Contact me at [email](malito:songmin.yu@outlook.com)
 
 ## Version History
 
@@ -49,4 +44,5 @@ As an example, commands to run in order to get support and inform about an issue
 
 ## License
 
-This project is licensed under the [your license] License - See the LICENSE.md file for details
+This project is based on the [python-project-template](https://github.com/rsaz/python-project-template) project by [@rsaz](https://github.com/rsaz). 
+The project is licensed under the MIT License.

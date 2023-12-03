@@ -1,7 +1,4 @@
-"""
-this is module docstring
-"""
-from ModuleName.my_module import *
+from package_name.sub_module.my_sub_module import sum_two_numbers
 
 
 def main() -> None:
